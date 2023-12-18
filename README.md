@@ -70,19 +70,25 @@ Welcome to Tile by waitList App! This application is Game event conducted by a o
 
 ---
 ## Attachments
-I have used 3 Collections
+
 Landing Page-
-    [![landpage.png](https://i.postimg.cc/fTrRnWwd/landpage.png)](https://postimg.cc/kBWmWmRM)(https://postimg.cc/t1CDDXrj)
+    [![landpage.png](https://i.postimg.cc/fTrRnWwd/landpage.png)](https://postimg.cc/kBWmWmRM)
+    
 Login Page-
-    [![Loginpage.png](https://i.postimg.cc/vHBSxb53/Loginpage.png)](https://postimg.cc/nMy168RD)  
+    [![Loginpage.png](https://i.postimg.cc/vHBSxb53/Loginpage.png)](https://postimg.cc/nMy168RD) 
+    
 Admin Login-
     [![Adminlogin.png](https://i.postimg.cc/0N4PJcBB/Adminlogin.png)](https://postimg.cc/zLT9sS5C)
+    
 Admin Page-
      [![Admin.png](https://i.postimg.cc/gjZy3zH6/Admin.png)](https://postimg.cc/1VyNQZT9)
+     
 User Status Page-
       [![Statuspage.png](https://i.postimg.cc/mr7GpCZd/Statuspage.png)](https://postimg.cc/5H9G6HCv)
+      
 Table Used-
       [![wait-List-Table.png](https://i.postimg.cc/FzyMD497/wait-List-Table.png)](https://postimg.cc/8fCXzxfS)
+      
 ---
 Feel free to explore, and thanks you for your time😊
 
