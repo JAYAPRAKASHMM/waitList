@@ -18,7 +18,7 @@
 4. [Built Tools](#built-tools)
     - GitHub
     - Git
-6. [Tables used-attachments](#Tables used)
+6. [Attachments](#Attachments)
     - waitlist_table
     - home_page
     - login && register page
@@ -69,7 +69,7 @@ Welcome to Tile by waitList App! This application is Game event conducted by a o
 - **Git:** A distributed version control system for tracking changes in source code.
 
 ---
-## Tables used
+## Attachments
 I have used 3 Collections
 Landing Page-
     [![landpage.png](https://i.postimg.cc/fTrRnWwd/landpage.png)](https://postimg.cc/kBWmWmRM)(https://postimg.cc/t1CDDXrj)
